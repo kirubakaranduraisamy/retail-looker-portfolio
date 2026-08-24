@@ -1,0 +1,13 @@
+# Credentials and secrets
+*.json
+*.key
+*.pem
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
